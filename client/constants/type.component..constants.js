@@ -1,0 +1,4 @@
+export const SELECT = 'SELECT_COMPONENT';
+export const OPTION = 'SELECT_OPTION_COMPONENT';
+export const INPUT = 'INPUT_COMPONENT';
+export const RADIO = 'RADIO_BUTTOM_COMPONENT';
