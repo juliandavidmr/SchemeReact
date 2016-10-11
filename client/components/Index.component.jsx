@@ -8,8 +8,6 @@ class Index extends Component {
   }
 
   render() {
-    const { show_list } = this.props;
-
     return (
       <div>
         Index
@@ -18,8 +16,6 @@ class Index extends Component {
   }
 }
 
-ListarComponent.propTypes = {
-  show_list: PropTypes.array.isRequired
-};
+Index.propTypes = {};
 
-export default ListarComponent;
+export default Index;
