@@ -1,0 +1,15 @@
+{
+  "input": [
+    {
+      "name": "input1",
+      "value": "hola",
+      "type": "number",
+      "id": 1
+    }, {
+      "name": "input2",
+      "value": "entrada dos",
+      "type": "text",
+      "id": 2
+    }
+  ]
+}
